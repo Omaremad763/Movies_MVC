@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Movies CRUD_MVC.props" />
+</Project>
